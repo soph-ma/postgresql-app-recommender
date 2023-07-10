@@ -1,0 +1,7 @@
+pandas
+matplotlib
+ipykernel
+psycopg2
+fastapi
+uvicorn
+google-play-scraper
